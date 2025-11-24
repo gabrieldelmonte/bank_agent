@@ -1,0 +1,8 @@
+# Ignoring .env files
+.env
+
+# Ignoring __pycache__ directories
+__pycache__/
+
+# Ignoring virtual environment directories
+bank_venv/
